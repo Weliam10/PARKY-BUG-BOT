@@ -22,8 +22,8 @@ global.ownername = '𖣘➭𝙫𝙖𝙡𝙩𝙧𝙞𝙭𐂂✞' //owner name
 global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
-global.packname = '🌹⃝⃞⃟𝙹𝚄𝙸𝙲𝙴𝄟✮͢≛⃝𝚆𝚁𝙻𝙳⃝⃞⃟🌹'
-global.author = '🌹⃝⃞⃟𝙹𝚄𝙸𝙲𝙴𝄟✮͢≛⃝𝚆𝚁𝙻𝙳⃝⃞⃟🌹'
+global.packname = '𖣘➭𝙫𝙖𝙡𝙩𝙧𝙞𝙭𐂂✞'
+global.author = '𖣘➭𝙫𝙖𝙡𝙩𝙧𝙞𝙭𐂂✞'
 
 //console view/theme
 global.themeemoji = '🩵'
